@@ -12,5 +12,11 @@ public class StashDemo4 {
 	}
 	
 	
+	
+	public void set() {
+		System.out.println("setMethod");
+	}
+	
+	
 
 }
